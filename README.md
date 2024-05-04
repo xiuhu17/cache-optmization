@@ -1,2 +1,7 @@
 # cache-optmization
-multibanck-lockup free data cache
+
+L1-DataCache: multibanck & lockup-free & victim page
+L1-InstrCache: prefetcher
+L2-cache: Shared
+Dram
+
