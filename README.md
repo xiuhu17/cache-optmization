@@ -7,5 +7,10 @@ Stage1:
   Dram
   
 Stage2:
-  Redesigned Out-of-Order Cpu(combination of Out-of-Office cpu with No_Pre-Reqs)
+  Redesigned Out-of-Order Cpu(combination of No_Pre-Reqs cpu with Out-Of-Office cpu) \
   Goal is achieve avg IPC >= 1.0 with minimum power
+
+Current Contributor: \
+        Ram Krishna \
+        Zhihao Wang
+        
